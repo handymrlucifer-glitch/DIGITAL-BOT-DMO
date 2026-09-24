@@ -1,0 +1,6 @@
+import { encryptOwners } from './utils/MR DEMON TOUT PUISANT Creator.js';
+
+await encryptOwners([
+  "50932152067",
+  "50932152067"
+]);
