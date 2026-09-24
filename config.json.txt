@@ -5,7 +5,7 @@
         "50932152067@s.whatsapp.net",
         "50932152067@s.whatsapp.net"
       ],
-      "tagAudioPath": "database/DigiX.mp3",
+      "tagAudioPath": "database/Digital bot D-M.O.mp3",
       "antilink": true,
       "response": true,
       "autoreact": false,
