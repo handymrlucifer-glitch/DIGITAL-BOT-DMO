@@ -1,4 +1,4 @@
-import { DigixNew } from '../utils/DigixNew.js';
+import { Digital D-M.ONew } from '../utils/Digital D-M.ONew.js';
 import { downloadMediaMessage } from 'baileys';
 import fs from 'fs';
 import path from 'path';
